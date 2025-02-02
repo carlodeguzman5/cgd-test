@@ -13,8 +13,8 @@ android {
         applicationId = "com.example.splashapplication"
         minSdk = 34
         targetSdk = 34
-        versionCode = 2
-        versionName = "Version 1"
+        versionCode = 5
+        versionName = "2"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
